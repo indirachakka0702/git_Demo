@@ -18,6 +18,9 @@ public class demo {
 		// "git add ."
 		// "git commit -m "comments" "
 		// "git push --set-upstream origin master"
+		// if you want to go back to workspace and change the file name to push to got hub 
+		// for going back to one file command "cd.."and hit enter
+		
 		
 	}
 
